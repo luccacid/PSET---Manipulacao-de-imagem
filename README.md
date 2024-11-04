@@ -1,2 +1,2 @@
-﻿# PSET---Manipulacao-de-imagem
+﻿# PSET - Manipulacao de imagens
 
